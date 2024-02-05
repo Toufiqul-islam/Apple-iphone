@@ -1,0 +1,8 @@
+.block{
+    display:flex;
+    justify-content: center;
+}
+.text{
+    width: 100px;
+    padding: 50px;
+}
